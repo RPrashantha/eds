@@ -233,6 +233,10 @@ header nav .nav-sections ul > li > ul > li {
     position: relative;
   }
 
+  .default-content-wrapper {
+    background-color: red;;
+  }
+
   header nav .nav-sections .default-content-wrapper > ul > li > ul {
     display: none;
     position: relative;
